@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>
+    <string-array name="secure">  
+        <item>WPA</item>
+		<item>无</item>
+		<item>WEP</item>
+    </string-array>  
+	<string-array name="array_boolean">  
+        <item>真</item>
+		<item>假</item>
+    </string-array>  
+</resources> 

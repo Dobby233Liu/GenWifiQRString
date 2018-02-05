@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>
+    <string-array name="secure">  
+        <item>WPA</item>
+		<item>None</item>
+		<item>WEP</item>
+    </string-array>  
+	<string-array name="array_boolean">  
+        <item>True</item>
+		<item>False</item>
+    </string-array>  
+</resources> 

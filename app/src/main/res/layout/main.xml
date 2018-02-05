@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:orientation="vertical">
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:text="@string/type"
+		android:layout_width="wrap_content"/>
+
+	<Spinner
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:id="@+id/sSpinn"/>
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:gravity="bottom|left">
+
+		<TextView
+			android:text="SSID"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:gravity="left"/>
+
+	</LinearLayout>
+
+	<EditText
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:layout_width="wrap_content"
+		android:id="@+id/ssid"/>
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:text="@string/password"
+		android:layout_width="wrap_content"/>
+
+	<EditText
+		android:layout_height="wrap_content"
+		android:inputType="textPassword"
+		android:ems="10"
+		android:layout_width="wrap_content"
+		android:id="@+id/pass"/>
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:text="@string/ssid_hid"
+		android:layout_width="wrap_content"/>
+
+	<Spinner
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:id="@+id/hidSpinn"/>
+
+	<Button
+		android:layout_height="wrap_content"
+		android:text="@string/made"
+		android:layout_width="wrap_content"
+		android:id="@+id/made"/>
+
+	<EditText
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:layout_width="wrap_content"
+		android:hint="@string/result"
+		android:id="@+id/result"/>
+
+</LinearLayout>
+

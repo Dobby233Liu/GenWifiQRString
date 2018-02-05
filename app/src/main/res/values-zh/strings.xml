@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GenWifiQrString</string>
+    <string name="type">安全类型</string>
+	<string name="password">密码</string>
+	<string name="ssid_hid"> SSID 是否隐藏？</string>
+	<string name="made">制作</string>
+	<string name="result">结果</string>
+
+</resources>
