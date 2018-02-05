@@ -47,7 +47,8 @@ public class MainActivity extends Activity
 		public void onClick(View p1){
 		 SSID=((EditText)findViewById(R.id.ssid)).getText().toString();
 		 Password=((EditText)findViewById(R.id.pass)).getText().toString();
-		 ((EditText)findViewById(R.id.result)).setText("WIFI:T:"+SecureType+";S:"+SSID+";P:"+Password+";H:"+isHidden+";;");
+		final String s=(SecureType=="nopass"?("P:"+Password+";"):null);
+		 ((EditText)findViewById(R.id.result)).setText("WIFI:T:"+SecureType+";S:"+SSID+";"+s+"H:"+isHidden+";;");
 		}
 	});
     }
