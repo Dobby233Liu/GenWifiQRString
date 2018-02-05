@@ -1,16 +1,18 @@
 # If you're an developer - Progress
--- insert ur text --
+[]__TODO__
+[x]__DONE__
 
 # Not needed if is a dev demo phone - About your phone
--- something here --
+__TODO__
 
 # LogCat
--- we need orignal logcat or adrt logcat --
+<!-- we need orignal logcat or adrt logcat -->
+__TODO__
 
 # What appeared?
--- something about this --
+__TODO__
 
-# Should do anything instead?
--- whatever --
+# Should we do anything instead?
+__TODO__
 
 <!-- this is not needed if nothing you can give -->
