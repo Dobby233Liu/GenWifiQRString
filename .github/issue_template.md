@@ -1,18 +1,18 @@
 # If you're an developer - Progress
-__TODO__
+___TODO___
 
 
 # Not needed if is a dev demo phone - About your phone
-__TODO__
+___TODO___
 
 # LogCat
 <!-- we need orignal logcat or adrt logcat -->
-__TODO__
+___TODO___
 
 # What appeared?
-__TODO__
+___TODO___
 
 # Should we do anything instead?
-__TODO__
+___TODO___
 
 <!-- this is not needed if nothing you can give -->
