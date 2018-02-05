@@ -1,6 +1,6 @@
 # If you're an developer - Progress
-[]__TODO__
-[x]__DONE__
+__TODO__
+
 
 # Not needed if is a dev demo phone - About your phone
 __TODO__
